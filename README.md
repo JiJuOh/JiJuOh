@@ -7,7 +7,12 @@
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 오지영입니다!
 
 <!-- Body -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiJuOh&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiJuOh&theme=shadow_blue&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiJuOh&layout=donut&theme=shadow_blue)
+
+### 📌 Pinned
+
+
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
@@ -37,5 +42,5 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🚌 Top Langs & Algorithm
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiJuOh&layout=compact)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stel1ight)](https://solved.ac/profile/stel1ight)
