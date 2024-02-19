@@ -7,6 +7,7 @@
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 오지영입니다!
 
 <!-- Body -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiJuOh&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
