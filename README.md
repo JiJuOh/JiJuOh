@@ -37,6 +37,9 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
+
+** Server **
+
 ### 🚌 Top Langs & Algorithm
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stel1ight)](https://solved.ac/profile/stel1ight)
