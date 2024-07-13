@@ -4,14 +4,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=❤&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 오지영입니다!
+### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 주니어 개발자 오지영입니다!
 
 <!-- Body -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiJuOh&theme=shadow_blue&show_icons=true&line_height=28)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiJuOh&layout=donut&theme=shadow_blue)
-
-### 📌 Pinned
-
 
 
 ### 🦾 Skills
@@ -26,7 +23,6 @@
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 **🛠️ Infra and Tools**
-
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -37,8 +33,6 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
-
-** Server **
 
 ### 🚌 Top Langs & Algorithm
 
